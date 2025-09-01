@@ -1,0 +1,5 @@
+packages:
+  - app
+
+dangerouslyAllowAllBuilds: true
+nodeLinker: hoisted
